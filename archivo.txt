@@ -1,1 +1,5 @@
 Mi archivo de texto
+Es un archivo que sirve apra estudiar 
+Al principio esto devuelve un directroio en el .git
+donde se puede ejecutar los archivos que se pueden hacer en un momenot
+
